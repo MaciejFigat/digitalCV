@@ -1,12 +1,33 @@
-## Welcome to GitHub Pages
+# Maciej Figat
 
-You can use the [editor on GitHub](https://github.com/MaciejFigat/digitalCV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software developer and manager. With MERN stack in mind. Living in Warsaw, Poland_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:MaciejFigat@protonmail.com) / [LinkedIn] (https://www.linkedin.com/in/maciej-figat/) / [GitHub](https://github.com/MaciejFigat)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience and Education
+_This is an account for my IT experience and development._
+<br><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**240 hours intensive coding course** JavaScript Developer,  
+with focus on front-end technology, particularly React<br>
+[Coders Lab] (https://coderslab.pl/pl/) - Warsaw, Poland_(08.05.2020)_<br>
+
+## 💬 Languages
+
+**English**: Level 2 Certificate in English (ESOL), Certificate in Advanced English (2006). Highly competent in legal english with special emphasis on selected regulations of European Union law and its implementation within the Polish legislative system and investigative measures against aggressive tax planning. <br>
+**German**: B2
+<br><br>
+
+## 👩🏼‍🎓 Education
+[University of Warsaw](https://en.uw.edu.pl/)
+[Faculty of Law and Administration] (https://www.wpia.uw.edu.pl/pl) Law, 5 year Master’s studies<br>
+_Master of Law, 16.12.2019_
+ [Faculty of Management] Management and Marketing, specialty Human Resources Development, 5 year Master’s studies <br>
+_Master of Management, 26.04.2012_
+
+
+**12-week intensive coding course** focused on full-stack JavaScript<br>
+[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +47,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaciejFigat/digitalCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
