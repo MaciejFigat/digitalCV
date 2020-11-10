@@ -10,7 +10,7 @@ _This is an account for my IT experience and development._
 
 **240 hours intensive coding course** JavaScript Developer,  
 with focus on front-end technology, particularly React<br>
-[Coders Lab] (https://coderslab.pl/pl/) - Warsaw, Poland _(08.05.2020)_<br>
+[Coders Lab](https://coderslab.pl/pl/) - Warsaw, Poland _(08.05.2020)_<br>
 
 ## 💬 Languages
 
@@ -19,9 +19,11 @@ with focus on front-end technology, particularly React<br>
 <br><br>
 
 ## ⚖ Education
-[University of Warsaw](https://en.uw.edu.pl/)
+[University of Warsaw](https://en.uw.edu.pl/)<br>
+
 [Faculty of Law and Administration](https://www.wpia.uw.edu.pl/pl) ⚖️ Law, 5 year Master’s studies<br>
 _Master of Law, 16.12.2019_
+
  [Faculty of Management](http://www.wz.uw.edu.pl/) 📠 Management and Marketing, specialty Human Resources Development, 5 year Master’s studies <br>
 _Master of Management, 26.04.2012_
 
