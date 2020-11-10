@@ -4,7 +4,7 @@ _Software developer and manager. With MERN stack in mind. Living in Warsaw, Pola
 
 [Email](mailto:MaciejFigat@protonmail.com) / [LinkedIn] (https://www.linkedin.com/in/maciej-figat/) / [GitHub](https://github.com/MaciejFigat)
 
-## 👩🏼‍💻 Technical Experience and Education
+## 👨🏼‍💻 Technical Experience and Education
 _This is an account for my IT experience and development._
 <br>
 **240 hours intensive coding course** JavaScript Developer,  
@@ -17,7 +17,7 @@ with focus on front-end technology, particularly React<br>
 **German**: B2
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨🏼‍🎓 Education
 [University of Warsaw](https://en.uw.edu.pl/)
 [Faculty of Law and Administration] (https://www.wpia.uw.edu.pl/pl) ⚖️ Law, 5 year Master’s studies<br>
 _Master of Law, 16.12.2019_
