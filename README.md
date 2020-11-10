@@ -6,8 +6,7 @@ _Software developer and manager. With MERN stack in mind. Living in Warsaw, Pola
 
 ## 👩🏼‍💻 Technical Experience and Education
 _This is an account for my IT experience and development._
-<br><br>
-
+<br>
 **240 hours intensive coding course** JavaScript Developer,  
 with focus on front-end technology, particularly React<br>
 [Coders Lab] (https://coderslab.pl/pl/) - Warsaw, Poland _(08.05.2020)_<br>
