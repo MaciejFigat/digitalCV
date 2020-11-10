@@ -10,7 +10,7 @@ _This is an account for my IT experience and development._
 
 **240 hours intensive coding course** JavaScript Developer,  
 with focus on front-end technology, particularly React<br>
-[Coders Lab] (https://coderslab.pl/pl/) - Warsaw, Poland_(08.05.2020)_<br>
+[Coders Lab] (https://coderslab.pl/pl/) - Warsaw, Poland _(08.05.2020)_<br>
 
 ## 💬 Languages
 
@@ -28,5 +28,4 @@ _Master of Management, 26.04.2012_
 
 
 
-```
 
