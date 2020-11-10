@@ -20,30 +20,13 @@ with focus on front-end technology, particularly React<br>
 
 ## 👩🏼‍🎓 Education
 [University of Warsaw](https://en.uw.edu.pl/)
-[Faculty of Law and Administration] (https://www.wpia.uw.edu.pl/pl) Law, 5 year Master’s studies<br>
+[Faculty of Law and Administration] (https://www.wpia.uw.edu.pl/pl) ⚖️ Law, 5 year Master’s studies<br>
 _Master of Law, 16.12.2019_
- [Faculty of Management] Management and Marketing, specialty Human Resources Development, 5 year Master’s studies <br>
+ [Faculty of Management] 📠 Management and Marketing, specialty Human Resources Development, 5 year Master’s studies <br>
 _Master of Management, 26.04.2012_
 
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
