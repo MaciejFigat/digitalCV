@@ -20,9 +20,9 @@ with focus on front-end technology, particularly React<br>
 
 ## ⚖ Education
 [University of Warsaw](https://en.uw.edu.pl/)
-[Faculty of Law and Administration] (https://www.wpia.uw.edu.pl/pl) ⚖️ Law, 5 year Master’s studies<br>
+[Faculty of Law and Administration](https://www.wpia.uw.edu.pl/pl) ⚖️ Law, 5 year Master’s studies<br>
 _Master of Law, 16.12.2019_
- [Faculty of Management] 📠 Management and Marketing, specialty Human Resources Development, 5 year Master’s studies <br>
+ [Faculty of Management](http://www.wz.uw.edu.pl/) 📠 Management and Marketing, specialty Human Resources Development, 5 year Master’s studies <br>
 _Master of Management, 26.04.2012_
 
 ## Work Experience
