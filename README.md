@@ -2,7 +2,7 @@
 
 _Software developer and manager. With MERN stack in mind. Living in Warsaw, Poland_ <br>
 
-[Email](mailto:MaciejFigat@protonmail.com) / [LinkedIn] (https://www.linkedin.com/in/maciej-figat/) / [GitHub](https://github.com/MaciejFigat)
+[Email](mailto:MaciejFigat@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/maciej-figat/) / [GitHub](https://github.com/MaciejFigat)
 
 ## 👨🏼‍💻 Technical Experience and Education
 _This is an account for my IT experience and development._
