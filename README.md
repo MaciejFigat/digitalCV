@@ -27,7 +27,7 @@ _Master of Law, 16.12.2019_
  [Faculty of Management](http://www.wz.uw.edu.pl/) 📠 Management and Marketing, 5 year Master’s studies,  specialty Human Resources Development <br>
 _Master of Management, 26.04.2012_
 
-## Work Experience
+## ⚙ Work Experience 🖱
 _Prior IT career change_
 
 
