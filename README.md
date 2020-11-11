@@ -30,7 +30,14 @@ _Master of Management, 26.04.2012_
 ## ⚙ Work Experience 🖱
 _Prior IT career change_
 
-
-
+**Project Manager** at Batex Instal Projekt _2012-2020_
+BIP operates throughout Poland. It specializes in designing and installation of AC and ventilation systems of hightened health and information security standards. Particularly hospitals, clean rooms and controlled premises. 
+*Responsibilities include:*
+- Developing detailed project management plans in order to track progress
+- Estimation of the resources and participants necessary for achieving project goals
+- Management of budgets and billings
+- Communication with the client and other participants
+- Planning and building schedule project timelines 
+- Technical on site support ie. performing specialized measurements during acceptance testing
 
 
