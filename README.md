@@ -14,8 +14,8 @@ with focus on front-end technology, particularly React<br>
 
 ## 💬 Languages
 
-**Flag: United Kingdom on Google Android 11.0 English**: Level 2 Certificate in English (ESOL), Certificate in Advanced English (2006). Highly competent in legal english with special emphasis on selected regulations of European Union law and its implementation within the Polish legislative system and investigative measures against aggressive tax planning. <br>
-**Flag: Germany on Google Android 11.0 German**: B2
+**:gb: English**: Level 2 Certificate in English (ESOL), Certificate in Advanced English (2006). Highly competent in legal english with special emphasis on selected regulations of European Union law and its implementation within the Polish legislative system and investigative measures against aggressive tax planning. <br>
+**:de: German**: B2
 <br><br>
 
 ## ⚖ Education
