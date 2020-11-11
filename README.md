@@ -12,6 +12,12 @@ _This is an account for my IT experience and development._
 with focus on front-end technology, particularly React<br>
 [Coders Lab](https://coderslab.pl/pl/) - Warsaw, Poland _(08.05.2020)_<br>
 
+**Technologies used:**
+- HTML, CSS, Git, Sass, Gulp, RWD, React, ECMAScript 6, Fetch, React Router, Webpack, Styled Components
+- Node.js Express JS, MongoDB,  
+
+
+
 ## 💬 Languages
 
 **🇬🇧 English**: Level 2 Certificate in English (ESOL), Certificate in Advanced English (2006). Highly competent in legal english with special emphasis on selected regulations of European Union law and its implementation within the Polish legislative system and investigative measures against aggressive tax planning. <br>
@@ -30,8 +36,9 @@ _Master of Management, 26.04.2012_
 ## ⚙ Work Experience 🖱
 _Prior IT career change_
 
-**Project Manager** at Batex Instal Projekt _2012-2020_
-BIP operates throughout Poland. It specializes in designing and installation of AC and ventilation systems of hightened health and information security standards. Particularly hospitals, clean rooms and controlled premises. 
+**Project Manager** at Batex Instal Projekt _2012-2020_ <br>
+BIP operates throughout Poland. It specializes in designing and installation of AC and ventilation systems of hightened health and information security standards. Particularly hospitals, clean rooms and controlled premises. <br>
+
 *Responsibilities include:*
 - Developing detailed project management plans in order to track progress
 - Estimation of the resources and participants necessary for achieving project goals
