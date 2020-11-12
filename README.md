@@ -27,17 +27,17 @@ with focus on front-end technology, particularly React<br>
 ## ⚖ Education
 [University of Warsaw](https://en.uw.edu.pl/)<br>
 
-[Faculty of Law and Administration](https://www.wpia.uw.edu.pl/pl) ⚖️ Law, 5 year Master’s studies<br>
-_Master of Law, 16.12.2019_
+[Faculty of Law and Administration](https://www.wpia.uw.edu.pl/pl) Law, 5 year Master’s studies<br>
+**_Master of Law, 16.12.2019_**
 
- [Faculty of Management](http://www.wz.uw.edu.pl/) 📠 Management and Marketing, 5 year Master’s studies,  specialty Human Resources Development <br>
-_Master of Management, 26.04.2012_
+ [Faculty of Management](http://www.wz.uw.edu.pl/) Management and Marketing, 5 year Master’s studies,  specialty Human Resources Development <br>
+**_Master of Management, 26.04.2012_**
 
-## ⚙ Work Experience 🖱
+## ⚙ Work Experience 
 _Prior IT career change_
 
 **Project Manager** at Batex Instal Projekt _2012-2020_ <br>
-BIP operates throughout Poland. It specializes in designing and installation of AC and ventilation systems of hightened health and information security standards. Particularly hospitals, clean rooms and controlled premises. <br>
+BIP operates throughout Poland. It specializes in designing and installation of AC and ventilation systems of hightened health and security standards. Particularly hospitals, clean rooms and controlled premises. <br>
 
 *Responsibilities include:*
 - Developing detailed project management plans in order to track progress
