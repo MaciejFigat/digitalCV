@@ -37,7 +37,7 @@ with focus on front-end technology, particularly React<br>
 _Prior IT career change_
 
 **Project Manager** at Batex Instal Projekt _2012-2020_ <br>
-BIP operates throughout Poland. It specializes in designing and installation of AC and ventilation systems of hightened health and security standards. Particularly hospitals, clean rooms and controlled premises. <br>
+BIP operates throughout Poland. It specializes in designing and installation of AC and ventilation systems of heightened health and security standards. Particularly hospitals, clean rooms and controlled premises. <br>
 
 *Responsibilities include:*
 - Developing detailed project management plans in order to track progress
