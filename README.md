@@ -14,7 +14,7 @@ with focus on front-end technology, particularly React<br>
 
 **Technologies used:**
 - HTML, CSS, Git, Sass, Gulp, RWD, React, ECMAScript 6, Fetch, React Router, Webpack, Styled Components
-- Node.js Express JS, MongoDB,  
+- Node.js Express JS, MongoDB, Redux  
 
 
 
