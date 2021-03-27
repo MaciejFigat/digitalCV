@@ -28,7 +28,7 @@ with focus on front-end technology, particularly React<br>
   <img alt="JSONWebTokens" src="https://img.shields.io/badge/JSON Web Tokens-000000?logo=json-web-tokens&logoColor=white&style=flat" />
 </p>
 
-## Goals
+## ⚜ Goals
 
 One of my primary professional goals is to influence the work environment and use my experience as a manager to help create competitive advantages. In turn I would like to have an opportunity to hone my programming skills and increase my capabilities in the IT sector. What motivates me is an opportunity for advancement in skills and proficiency concerning modern technologies.
 
